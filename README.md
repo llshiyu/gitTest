@@ -1,2 +1,2 @@
 # gitTest
-git联系
+git练习
